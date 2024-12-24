@@ -22,8 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ## 📫 Get in Touch
 
 - **Email:** sjnnab2017@outlook.com
-- **LinkedIn:** [https://www.linkedin.com/in/jenny-sheng-7b7251180/]
-- **Website:** 
+
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project or just chat about tech!
 
